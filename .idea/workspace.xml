@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f45dcc1-c113-41e5-bec4-5ca760870053" name="Changes" comment="Initial commit of the Car Order System">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/SimpleClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/BaseCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/BaseCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/BlaupunktNewYork800Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/BlaupunktNewYork800Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/OversizedGasTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/OversizedGasTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/SpareTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/SpareTire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/SunRoof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/SunRoof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/V12Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/V12Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/V8Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/entity/V8Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/carOrder/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/carOrder/service/CarService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/result.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702055968265</updated>
-      <workItem from="1702055969768" duration="8471000" />
+      <workItem from="1702055969768" duration="10305000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of the Car Order System">
       <option name="closed" value="true" />
@@ -101,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702062877484</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit of the Car Order System">
+      <option name="closed" value="true" />
+      <created>1702065300238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702065300238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit of the Car Order System">
+      <option name="closed" value="true" />
+      <created>1702066006987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702066006987</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
