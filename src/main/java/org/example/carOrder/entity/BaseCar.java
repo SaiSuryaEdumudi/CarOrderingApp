@@ -24,7 +24,7 @@ public class BaseCar implements Car {
 
     @Override
     public String getDescription() {
-        return "Car: " + model;
+        return "Car " + model + " : $" + cost;
     }
 
     @Override

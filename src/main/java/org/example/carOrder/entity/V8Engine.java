@@ -9,7 +9,7 @@ public class V8Engine extends CarDecorator {
 
     @Override
     public String getDescription() {
-        return super.getDescription() + " with V-8";
+        return super.getDescription() + " + V-8 Engine : $4400 ";
     }
 
     @Override

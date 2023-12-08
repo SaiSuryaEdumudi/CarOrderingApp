@@ -12,7 +12,15 @@ public class SunRoof extends CarDecorator {
 
     @Override
     public String getDescription() {
-        return super.getDescription() + " with Sun Roof";
+        String cost;
+        if (modelFactor == 2)
+            cost = "2240";
+        else if (modelFactor == 1)
+            cost = "1940";
+        else
+            cost = "3400";
+        return super.getDescription() +
+                " + Sun Roof : $" + cost ;
     }
 
     @Override

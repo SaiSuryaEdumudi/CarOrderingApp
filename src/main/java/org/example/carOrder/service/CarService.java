@@ -67,8 +67,8 @@ public class CarService {
 
     private static int getModelFactor(String model) {
         return switch (model.toUpperCase()) {
-            case "E" -> 2;
-            case "CS" -> 3;
+            case "E - $45000" -> 2;
+            case "CS - $60000" -> 3;
             default -> 1;
         };
     }

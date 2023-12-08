@@ -9,7 +9,7 @@ public class BlaupunktNewYork800Radio extends CarDecorator {
 
     @Override
     public String getDescription() {
-        return super.getDescription() + " with Blaupunkt New York 800 Radio";
+        return super.getDescription() + " + Blaupunkt New York 800 Radio : $940 ";
     }
 
     @Override

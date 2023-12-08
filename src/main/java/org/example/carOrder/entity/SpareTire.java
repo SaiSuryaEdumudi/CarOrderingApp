@@ -9,7 +9,7 @@ public class SpareTire extends CarDecorator {
 
     @Override
     public String getDescription() {
-        return super.getDescription() + " with Spare Tire";
+        return super.getDescription() + " + Spare Tire : $440 ";
     }
 
     @Override

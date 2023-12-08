@@ -9,7 +9,7 @@ public class OversizedGasTank extends CarDecorator {
 
     @Override
     public String getDescription() {
-        return super.getDescription() + " with Oversized Gas Tank";
+        return super.getDescription() + " + Oversized Gas Tank : $940";
     }
 
     @Override
